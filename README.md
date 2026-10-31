@@ -1,6 +1,13 @@
 # sentilens-review-intelligence
 # SentiLens — Customer Review Sentiment Intelligence
 
+
+## 🚀 Live Demo
+
+[Launch SentiLens — Sentiment Analysis App](https://sentilens-review-intelligence-bkktxhpnsxrh37jxrvtavh.streamlit.app/)
+
+An interactive NLP application for classifying customer reviews into positive, neutral, and negative sentiment, with single-review analysis, CSV batch processing, and sentiment visualization.
+
 **A Streamlit dashboard for reviewing sentiment in customer feedback.** Built from a 1,440-review NLP notebook using TF-IDF, classification models, class-imbalance techniques, and hyperparameter tuning.
 
 **Project author:** Manivasagam Rajakannan  
